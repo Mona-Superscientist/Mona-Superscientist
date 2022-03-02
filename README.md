@@ -14,6 +14,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://stackoverflow.com/users/3442332/mona101ma">
-    <img src="https://img.icons8.com/color/50/000000/stackoverflow.png"/>  
+    <img src="https://img.icons8.com/color/50/000000/stackoverflow.png" width="3.5%"/>  
   </a><span>&nbsp;</span>
 </p>
