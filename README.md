@@ -13,4 +13,7 @@
   <a href="https://github.com/Mona-Superscientist">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+  <a href="https://stackoverflow.com/users/3442332/mona101ma">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKtgOWp0LkhVIDa4s-ZjpMC0Fr3tRPPy-OXreof2BmEq1aqs7NqhD2YYMYC3G_OgdzLw&usqp=CAU" width="3.5%"/>
+  </a><span>&nbsp;</span>
 </p>
