@@ -5,6 +5,8 @@
 ![living](https://img.shields.io/badge/living-Egypt-3c9)
 ![visitors](https://komarev.com/ghpvc/?username=Mona-Superscientist&label=visitors)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C009A6&lines=Hey%2C+It's+Mona;QC%2F+QA%2F+Test+Automation+Engineer;Nice+to+meet+you+...)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mona-m-abd-el-rahman/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
