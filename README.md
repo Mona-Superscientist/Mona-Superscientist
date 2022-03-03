@@ -1,4 +1,9 @@
-<h1 align="center">Hi, It's Mona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mona </h1>
+
+![age](https://img.shields.io/badge/age-33-blue)
+![focus](https://img.shields.io/badge/focus-Quality Engineering & Test Automation -brightgreen)
+![living](https://img.shields.io/badge/living-Egypt-3c9)
+![visitors](https://komarev.com/ghpvc/?username=Mona-Superscientist&label=visitors)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mona-m-abd-el-rahman/">
