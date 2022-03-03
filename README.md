@@ -2,7 +2,7 @@
 
 <p align="center">
   
-![age](https://img.shields.io/badge/age-33-blue)
+![age](https://img.shields.io/badge/age-33-blue-center)
 ![focus](https://img.shields.io/badge/focus-QC/QA-brightgreen)
 ![living](https://img.shields.io/badge/living-Egypt-3c9)
 ![visitors](https://komarev.com/ghpvc/?username=Mona-Superscientist&label=visitors)
