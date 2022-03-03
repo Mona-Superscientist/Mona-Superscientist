@@ -5,7 +5,7 @@
 ![living](https://img.shields.io/badge/living-Egypt-3c9)
 ![visitors](https://komarev.com/ghpvc/?username=Mona-Superscientist&label=visitors)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2311AEA0&center=true&lines=Hey%2C+It's+Mona;QC%2F+QA%2F+Test+Automation+Engineer;Nice+to+meet+you+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2311AEA0&size=25&vCenter=true&lines=Hey%2C+It's+Mona;QC%2FQA%2FTest+Automation+Engineer;Nice+to+meet+you+...)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mona-m-abd-el-rahman/">
