@@ -13,13 +13,13 @@
 const mona = {
   pronouns: "she" | "her",
   code: ["Javascript", "Typescript", "Python", "Java", "Kotlin", "Swift"],
-  frameworks/Tools: ["Cypress", "TestCafe", "Supertest", "Mocha", "Chai", "Jest", "Pytest", "Espresso", "XCUItest", "Docker"],
+  frameworks/tools: ["Cypress", "TestCafe", "Supertest", "Mocha", "Chai", "Jest", "Pytest", "Espresso", "XCUItest", "Docker"],
   ci/cd: ["Jenkins", "circle ci", "github actions", "drone ci"],
   testingTools: ["TestRail", "XRay"],
   techCommunities: {
-                        coorganizer: "Ministry of testing - Cairo chapter",
-                        cofounder: "Quality Hub"
-                    }
+      coorganizer: "Ministry of testing - Cairo chapter",
+      cofounder: "Quality Hub"
+  }
 }
 ```
 
