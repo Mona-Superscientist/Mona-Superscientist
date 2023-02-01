@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋 , I'm Mona </h1>
   
-![age](https://img.shields.io/badge/age-33-blue)
 ![focus](https://img.shields.io/badge/focus-QC/QA-brightgreen)
 ![living](https://img.shields.io/badge/living-Egypt-3c9)
 ![visitors](https://komarev.com/ghpvc/?username=Mona-Superscientist&label=visitors)
