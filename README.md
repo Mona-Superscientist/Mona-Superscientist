@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 , I'm Mona </h1>
   
-![focus](https://img.shields.io/badge/focus-QC/QA-brightgreen)
+![focus](https://img.shields.io/badge/focus-Quality_Engineering-brightgreen)
 ![living](https://img.shields.io/badge/living-Egypt-3c9)
 ![visitors](https://komarev.com/ghpvc/?username=Mona-Superscientist&label=visitors)
 
