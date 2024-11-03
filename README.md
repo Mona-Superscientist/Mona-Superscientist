@@ -10,9 +10,12 @@
 const mona = {
   pronouns: "she" | "her",
   code: ["Javascript", "Typescript", "Python", "Java", "Kotlin", "Swift"],
-  frameworks/tools: ["Cypress", "TestCafe", "Supertest", "Mocha", "Chai", "Jest", "Pytest", "Espresso", "XCUItest", "Docker"],
-  ci/cd: ["Jenkins", "circle ci", "github actions", "drone ci"],
-  testingTools: ["TestRail", "XRay"],
+  frontendAutomation: ["Cypress", "TestCafe", "Jest", "Selenium", "Playwright"],
+  backendAutomation: ["Supertest", "Axios", "Mocha", "Chai", "Pytest", "Rspec", "Ginkgo", "Gomega"],
+  mobileAutomation: ["Appium", "Espresso", "XCUItest"],
+  ci/cd: ["Jenkins", "CircleCI", "GitHub actions", "Drone ci", "Bitrise"],
+  testManagementTools: ["TestRail", "XRay", "TestLodge"],
+  projectManagement: ["Jira", "Trello", "Notion", "Asana", "Hubspot", "Basecamp"],
   techCommunities: {
       coorganizer: "Ministry of testing - Cairo chapter",
       cofounder: "Quality Hub"
