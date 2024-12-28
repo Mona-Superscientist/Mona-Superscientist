@@ -18,7 +18,7 @@ const mona = {
   projectManagement: ["Jira", "Trello", "Notion", "Asana", "Hubspot", "Basecamp"],
   techCommunities: {
       coorganizer: "Ministry of testing - Cairo chapter",
-      cofounder: "Quality Hub"
+      QA mentor: "ADPList"
   }
 }
 ```
